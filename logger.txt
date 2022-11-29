@@ -1,0 +1,7 @@
+Endpoint: GET /products -  Request duration: 0.00483943199999981
+Endpoint: PUT /products/29a15363-78ef-456e-a500-9d64b4d6c1ba -  Request duration: 0.004696617000000458
+Endpoint: GET /getById/29a15363-78ef-456e-a500-9d64b4d6c1ba -  Request duration: 0.0023366329999987556
+Endpoint: POST /products -  Request duration: 0.43380557000000053
+Endpoint: PUT /products/29a15363-78ef-456e-a500-9d64b4d6c1ba -  Request duration: 0.0051722860000005255
+Endpoint: GET /products -  Request duration: 0.0014560729999999467
+Endpoint: GET /getById/29a15363-78ef-456e-a500-9d64b4d6c1ba -  Request duration: 0.002026756999999435
